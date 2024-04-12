@@ -1,4 +1,4 @@
-package com.fyz;
+package pat;
 import java.util.*;
 /**
  * @author 冯钰卓

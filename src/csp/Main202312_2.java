@@ -1,4 +1,4 @@
-package com.csp;
+package csp;
 import java.util.*;
 
 public class Main202312_2 {

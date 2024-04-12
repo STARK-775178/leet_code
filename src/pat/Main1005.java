@@ -1,4 +1,4 @@
-package com.fyz;
+package pat;
 import java.util.*;
 
 public class Main1005 {
